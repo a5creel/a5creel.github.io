@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Supplementary Materials
 
-[Appendix A] (https://github.com/a5creel/a5creel.github.io/parent_state_level_beta.HTML) 
+[Appendix A](https://a5creel.github.io/parent_state_level_beta.html) 
 
 
 
