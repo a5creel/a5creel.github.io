@@ -1,3 +1,7 @@
+## Tables
+
+[Summary of all Regressions](https://a5creel.github.io/summaryTable.html)
+
 ## Supplementary Materials
 
 [Appendix A](https://a5creel.github.io/parent_state_level_beta.html): Each state's regression results when fit to Eqn. 10
