@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Andie M. Creel 
 
 ![Andie Creel](photos/DSC_0101.jpg)

@@ -1,13 +1,2 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-  
+theme: jekyll-theme-minimal
 title: Andie M. Creel
-
-# Add navigation links
-header_pages:
-  - index.md
-  - research.md
-  - teaching_statement.md
-  - contact.md
-  - new_page.md  # Add your new Markdown file here
