@@ -3,7 +3,7 @@ layout: default
 title: Andie M. Creel
 ---
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 50px;">
     <img src="photos/DSC_0101.jpg" alt="Andie Creel" style="max-height: 300px;">
 </div>
 
@@ -14,6 +14,8 @@ I am a Ph.D. candidate in Environmental Economics at The Yale School of the Envi
 - [View and Download CV](creel_cv.pdf)
 - [andie.creel@yale.edu](mailto:andie.creel@yale.edu)
 - [LinkedIn](https://www.linkedin.com/in/andie-creel/)
+
+<div style="clear: both;"></div>
 
 ## Research
 
