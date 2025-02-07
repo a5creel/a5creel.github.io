@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
-title: Andie M Creel
+title: Andie M. Creel
+
+# Add navigation links
+header_pages:
+  - index.md
+  - teaching_statement.md
+  - cv.pdf
