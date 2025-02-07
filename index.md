@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Home
+title: Andie M. Creel
 ---
 
-# Andie M. Creel 
-
 ![Andie Creel](photos/DSC_0101.jpg)
+# Andie M. Creel 
 
 I am a Ph.D. candidate in Environmental Economics at The Yale School of the Environment. My research focuses on non-market valuation using revealed preference methods, with particular interest in developing new environmental economic statistics at the national scale. I will be on the job market in 2025-2026.
 
