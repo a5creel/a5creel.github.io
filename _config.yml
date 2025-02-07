@@ -7,4 +7,4 @@ header_pages:
   - research.md
   - teaching_statement.md
   - contact.md
- 
+  - new_page.md  # Add your new Markdown file here
