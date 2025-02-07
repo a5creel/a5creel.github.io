@@ -1,16 +1,17 @@
-## Tables
+# Andie Creel
 
-[Summary of all Regressions](https://a5creel.github.io/summaryTable.html)
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img src="photos/DSC_0101.jpg" alt="Andie Creel" style="width: 100%; max-width: 150px; height: auto; margin-right: 20px;">
+  <div style="flex: 1 1 300px;">
+    I am a Ph.D. candidate in Environmental Economics at The Yale School of the Environment. My research focuses on non-market valueation, with particular interest in developing new evironmental economic statistics at the national scale. I will be on the job market in 2025-2026.
+  </div>
+</div>
 
-## Supplementary Materials
+## Contact Information
+- Email: andie.creel@yale.edu
+- Phone: 406 580 1596
+- [LinkedIn](https://www.linkedin.com/in/andie-creel-7552b9b1/e)
 
-[Appendix A](https://a5creel.github.io/parent_state_level_beta.html): Each state's regression results when fit to Eqn. 10
-
-[Appendix B](https://a5creel.github.io/parent_state_level_budget.html): Each state's regression results when fit to Eqn. 11
-
-[Appendix C](https://a5creel.github.io/parent_state_level_travelCost.html): Each state's regression results when when fit to Eqn. 10 and Eqn. 14. Results for Eqns. 12, 13, and 15 also included. 
-
-[Appendix D](https://a5creel.github.io/parent_state_level_parkType.html): Results for each state's parks separated by type and fit to Eqn. 10. Welfare calculations also included by park type and state. 
 
 
 
