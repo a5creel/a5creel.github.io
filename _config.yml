@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
+markdown: kramdown
+title: "Andie M Creel - Economist"
+description: "Environmental Economics PhD Candidate | Job Market 2025/2026"
