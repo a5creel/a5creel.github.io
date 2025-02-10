@@ -4,11 +4,11 @@ title: Andie M. Creel
 ---
 
 <div style="float: left; margin-right: 50px; margin-bottom: 50px;">
-    <img src="photos/DSC_0101.jpg" alt="Andie Creel" style="max-height: 300px;">
+    <img src="photos/DSC_0101.jpg" alt="Andie Creel" style="max-height: 400px;">
 </div>
 
 # Andie M. Creel 
-I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research develops new national-scale economic statistics that account for the value of natural capital — benefits from nature that are often missing from traditional economic measures or misattributed to industry. I use revealed preference methods and non-market valuation techniques to quantify how environmental resources contribute to welfare. While my work informs national decision-making, I also examine how benefits change over time to assess sustainable development goals, their distribution across policy-relevant subpopulations, and spatial variations that influence environmental valuation. My current projects estimate the evolving importance of local recreation opportunities for different demographic groups and explore how urban green spaces serve as economic “insurance” during extreme heat events. Through this research, I aim to help policymakers design resource management strategies that enhance sustainability, improve accessibility to environmental benefits, and support nature-based climate adaptation.
+I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. I use revealed preference methods and non-market valuation techniques to quantify how environmental resources contribute to welfare. My research contributes to the development of new national-scale economic statistics that account for the value of natural capital and ecosystem services that are missing from traditional economic measures or misattributed to industry. I also examine how environmental benefits and costs change over time to assess sustainable development goals, their distributions across policy-relevant subpopulations, and spatial variations that affect environmental value. My current research estimates the evolving importance of local recreation opportunities for different demographic groups and explores how urban green spaces serve as economic “insurance” during extreme heat events. Through my research agenda, I aim to help policymakers design resource management strategies that enhance sustainability, improve accessibility to environmental benefits, and support nature-based climate adaptation.
 
 I will be on the job market in 2025-2026.
 
