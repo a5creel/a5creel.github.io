@@ -14,7 +14,7 @@ I will be on the job market in 2025-2026.
 
 - [View and Download CV](creel_cv.pdf)
 - [andie.creel@yale.edu](mailto:andie.creel@yale.edu)
-- [LinkedIn](https://www.linkedin.com/in/andie-creel/)
+- [LinkedIn](https://www.linkedin.com/in/andie-creel-7552b9b1/)
 
 <div style="clear: both;"></div>
 
