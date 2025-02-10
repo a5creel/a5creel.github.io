@@ -8,7 +8,7 @@ title: Andie M. Creel
 </div>
 
 # Andie M. Creel 
-I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research uses revealed preference methods to quantify the economic value of natural capital and ecosystem services, improving national economic statistics. I examine how environmental benefits and costs evolve over time, across populations, and across space to inform sustainability policy and resource management. My current work explores the changing importance of local recreation and the role of urban green spaces as economic buffers during extreme heat. Through my research agenda, I aim to help decision-makers design resource management strategies that enhance sustainability, improve accessibility to environmental benefits, and support nature-based climate adaptation.
+I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research uses revealed preference methods to quantify the economic value of natural capital and ecosystem services, improving national economic statistics. I examine how environmental benefits and costs evolve over time, across populations, and across space to inform sustainability policy and resource management. My current work explores the changing importance of local recreation and the role of urban green spaces as an economic buffer during extreme heat. Through my research agenda, I aim to help decision-makers design resource management strategies that enhance sustainability, improve accessibility to environmental benefits, and support nature-based climate adaptation.
 
 I will be on the job market in 2025-2026.
 
