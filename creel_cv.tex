@@ -7,7 +7,8 @@
 \usepackage{tabularx} % For auto-adjusting table widths
 \usepackage{parskip}
 \usepackage{fancyhdr} % added package for headers
-\raggedbottom % allow pages to end at variable heights
+\usepackage{longtable} % added package for long tables
+% \raggedbottom % allow pages to end at variable heights
 
 \pagestyle{fancy}
 \fancyhf{} % clear header/footer
@@ -19,6 +20,7 @@
 \titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
 
 \begin{document}
+\raggedbottom % allow pages to end at variable heights
 
 \begin{center}
     \textbf{\Huge Andie M. Creel} \\
@@ -63,38 +65,31 @@ Minor in Computer Science
     \item Creel, S., Creel, N. M., Creel, A. M., \& Creel, B. M. (2016). Hunting on a hot day: effects of temperature on interactions between African wild dogs and their prey. \textit{Ecology}, 97(11), 2910-2916.
 \end{itemize}
 
-
+\clearpage
 
 \section*{RESEARCH FELLOWSHIPS}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for dates, X (expandable) for details
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for dates, X (expandable) for details
 2024 & Graduate Research Fellow, \textbf{Property and Environmental Rights Council} (PERC), Bozeman, MT. \\
 2022 & Graduate Research Fellow to \textbf{Eli P. Fenichel}, Yale School of the Environment and \textbf{Jude Bayham}, Colorado State University. \textit{Analyzed mobility data on the daily dairies of individuals to identify close contacts of meat packer employees during the COVID-19 pandemic.} \\
 2021 & Research Associate to \textbf{Margaret Walls}, Resources for the Future, Washington D.C. \textit{Examined distribution of Land Water Conservation Funds across sub-populations.}\\
 2019 & Graduate Research Associate to \textbf{Kerwin Charles}, Yale School of Management, New Haven, CT. \textit{Collected primary source data to analyze the effect of closing Black hospitals during desegregation.} \\
-\end{tabularx}
+\end{longtable}
 
 \section*{CONFERENCE AND SEMINAR PRESENTATIONS}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for year, X (expandable) for presentations
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for year, X (expandable) for presentations
 2025 & AERE Summer Conference, Santa Ana Pueblo, NM \\ 
-    & Confluence Research and Discussion Series, Yale School of the Environment \\[1ex]
-2024 & Invited Speaker, Western Community and Connections Seminar Series, Yale School of the Environment \\
-    & PERC Summer Seminar, Bozeman, MT \\
-    & ECON Student Interest Group Lunch Series, Yale School of the Environment \\
-    & Confluence Research and Discussion Series, Yale School of the Environment \\[1ex]
+    & W5133 Conference, Burlington, VT \\ 
+2024 & Invited Speaker -- Western Community and Connections Seminar Series, Yale School of the Environment \\
+    & PERC Summer Seminar Series, Bozeman, MT \\
 2023 & Camp Resources, Ashville, NC \\
     & OSWEET Series: April 28 \\
-    & Research Day, Yale School of the Environment  \\[1ex]
-2022 & Fall Confluence Research and Discussion Series, Yale School of the Environment \\
-    & Spring Confluence Research and Discussion Series, Yale School of the Environment \\[1ex]
 2021 & OSWEET Series: August 27 \\
-    & PERC Seminar Seminar, Bozeman, MT \\
-    & AERE Summer Conference \\
-    & Research Day, Yale School of the Environment  \\
-    & ECON Student Interest Group Lunch Series, Yale School of the Environment
-\end{tabularx}
+    & PERC Summer Seminar Series, Bozeman, MT \\
+    & AERE Summer Conference, Virtual
+\end{longtable}
 
 \section*{SELECT AWARDS AND HONORS}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for year, X (expandable) for awards
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for year, X (expandable) for awards
 2023 & Yale Environmental Data Science Initiative Small Grant \\
     & Teaching Fellow Award for Excellence, Yale School of the Environment \\
         & Yale Institute for Biospheric Studies Small Grant \\
@@ -105,13 +100,14 @@ Minor in Computer Science
 2019 & Merit Scholar, Yale School of the Environment \\
     & Runner Up for Best Digital Reporting, International Association of Fire Fighters \\[1ex]
 
-\end{tabularx}
+\end{longtable}
 
 \section*{TEACHING EXPERIENCE}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for dates, X (expandable) for details
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for dates, X (expandable) for details
 2025 & \textbf{Instructor, Certificate in Environmental Data Science, Yale School of the Environment} \\
     & \textit{Prepared and presented 8 lectures for the data foundations unit, February 2025}.\\ 
     & \href{https://github.com/a5creel/yse_data_science_certificate}{Link to Lecture Notes} \\[1ex]
+    \clearpage
     & \textbf{Instructor, Intro to Programming Workshop, Yale School of the Environment} \\
     & \textit{Prepared and presented 6 lectures over 3 days, January 2024 and 2025} \\
     & 4.7/5 average review from a total of 28 students.\\
@@ -141,14 +137,15 @@ Minor in Computer Science
     & \textit{Introduction to Programming with Java, Spring 2017} \\[1ex]
 2016 & \textbf{Undergraduate Teaching Assistant, ECNS 204, MSU Economics Department} \\
     & \textit{Microeconomics, Spring, Summer, Fall 2015; Spring 2016} \\
-\end{tabularx}
+\end{longtable}
 
 \section*{ACADEMIC SERVICE AND MENTORING}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for dates, X (expandable) for details
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for dates, X (expandable) for details
 2024 – 2025 & \textbf{Student Representative on Faculty Search Committee}, Yale School of the Environment \\
     & Participated with 3 faculty members to hire an economist and coordinated student engagement \\[1ex]
 2023 – 2024 & \textbf{Chair of Economics Student Interest Group}, Yale School of the Environment \\
     & Recruited and hosted eleven student seminars and seven group dinners \\[1ex]
+\clearpage
 2023 – 2024 & \textbf{Supervisor to two Research Assistants}, Yale School of the Environment \\
     & Managed an undergraduate and masters student on two separate research projects related to local recreation.\\
 2023 – 2024 & \textbf{Lead Student Coordinator for Western Community and Connect Center}, Yale School of the Environment \\
@@ -157,14 +154,10 @@ Minor in Computer Science
     & Invited and hosted speakers to Yale School of the Environment’s flagship seminar series \\[1ex]
 2020 – 2021 & \textbf{Chair of the Student Affairs Committee}, Yale School of the Environment \\
     & Revised bylaws to define and fund affinity groups, required leadership training for student organizations funded by SAC \\[1ex]
-2020 – 2021 & \textbf{Peer Mentor}, Yale School of the Environment \\
-    & Mentored three first-year masters students \\[1ex]
-2014 & \textbf{Honors College Mentor at Longfellow Elementary School}, Montana State University \\
-    & Mentored two fourth-grade boys in an age-appropriate engineering project \\
-\end{tabularx}
+\end{longtable}
 
 \section*{SELECT NONPROFIT EXPERIENCE}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for dates, X (expandable) for details
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for dates, X (expandable) for details
 2018 – 2025 & \textbf{Backcountry Squatters}, Bozeman, MT \\
     & \textit{Founder, President of Board} \\
     & Founded with the mission to grow college-aged women and non-binary folks’ participation, leadership, and representation in the outdoor industry and community. Grown to have chapters at 13 universities, and over 2000 members or alumni during my presidency. \\
@@ -174,10 +167,10 @@ Minor in Computer Science
 2017 – 2019 & \textbf{The Montana Engagement Partnership: Prairie Populist}, Bozeman, MT \\
     & \textit{Advocacy Journalist} \\
     & Published one article per week highlighting the positive solutions coming out of Montana’s rural communities. \\[1ex]
-\end{tabularx}
+\end{longtable}
 
 \section*{RELEVANT PODCASTS, LETTERS OF OPINIONS, AND TESTIMONY}
-\begin{tabularx}{\linewidth}{>{\bfseries}r X} % r (right) for dates, X (expandable) for details
+\begin{longtable}{>{\bfseries}r p{0.85\linewidth}} % r (right) for dates, X (expandable) for details
 December, 2024 & “Andie | Letting Go of the Familiar to Make Room for What is Next” \\
     & \textit{What The Hell Do I Do Now?}\\
     & \href{https://open.spotify.com/episode/7bswDIxoYApUMYuF7UPw6C?si=b8d9c4fdcc804742}{Link to Podcast} \\[1ex]
@@ -199,7 +192,7 @@ January, 2017 & “Return the Favor and Protect Public Lands” \\
     & \textit{Letter to the Editor of the Bozeman Daily Chronicle} \\[1ex]
 October, 2016 & “We Must Ask Ourselves, Where Will the Children Go?” \\
     & \textit{Opinion to the Editor of the Bozeman Daily Chronicle} \\
-\end{tabularx}
+\end{longtable}
 
 \section*{SELECTED SKILLS}
 \begin{itemize}[left=0pt]
