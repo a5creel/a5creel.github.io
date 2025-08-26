@@ -26,7 +26,7 @@ I will be on the job market in 2025-2026.
 
 Extreme heat is becoming more frequent and intense due to climate change, particularly in urban areas where the heat island effect amplifies high temperatures. This paper estimates the causal effect of temperature on daily revenue at over 15,000 consumer-facing storefronts in the 53 largest U.S. metro areas between 2019 and 2023, with a focus on how green space can mitigate revenue loss caused by extreme heat. I find that revenue begins to decline on days with a maximum temperature above 35 °C (95 °F) and drops by 10 percent on days above 37.5 °C (99.5 °F) relative to the average revenue on a 20 °C (68 °F) day. Substituting spending across days mitigates some damage from an extreme heat event, but a 1.3 percent revenue drop is persistent for two weeks following an extremely hot day. Because temporal substitution does not completely mitigate the negative effect of extreme heat, I examine the role of urban green space as a climate adaptation strategy. Using variation in greenery around storefronts belonging to the same brand within a city, I find that a 1 percent increase in surrounding green space raises revenue by 1.9 percent on extremely hot days: 1.1 percent from general amenity value and 0.8 percent from its cooling effect. These results suggest that green infrastructure can improve firm resilience to heat, providing evidence of a private incentive to finance public urban green space that could simultaneously provide a positive externality. 
 
-![Figure 2](figures/plot_all_cities.jpg)
+![Figure 2](figures/green_space_2.5.jpg)
 
 ## 20 Years of Changing Willingness to Pay for Local Outdoor Recreation
 
