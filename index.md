@@ -3,12 +3,14 @@ layout: default
 title: Andie M. Creel
 ---
 
-<div style="float: left; margin-right: 50px; margin-bottom: 50px;">
+<div style="float: right; margin-right: 50px; margin-bottom: 50px;">
     <img src="photos/DSC_0102.jpg" alt="Andie Creel" style="max-height: 400px;">
 </div>
 
 # Andie M. Creel 
-I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research uses revealed preference methods to quantify the economic value of natural capital and ecosystem services, improving national economic statistics. I examine how environmental benefits and costs evolve over time, across populations, and across space to inform sustainability policy and resource management. My current work explores the changing importance of local recreation and the role of urban green spaces as an economic buffer during extreme heat. Through my research agenda, I aim to help decision-makers design resource management strategies that enhance sustainability, improve access to environmental benefits, and support nature-based climate adaptation.
+I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research develops large-scale empirical measures of the economic value of natural capital and ecosystem services—values often missing from traditional statistics because nature is not bought or sold in markets. By combining revealed preference methods with novel datasets such as credit card transactions, mobility data, and high-resolution environmental measures, I quantify how environmental benefits and costs vary across time, space, and demographic groups.
+
+My job market paper shows how urban green space buffers the economic damages of extreme heat on storefront revenue, reframing trees from a public amenity into a productive asset that can “self-finance” through municipal tax bases. More broadly, my agenda examines how businesses capitalize on natural resources, how people rely on environmental amenities for welfare, and how these relationships can be incorporated into fiscal systems and national accounts. This work informs resource management strategies that promote sustainability, expand equitable access to environmental benefits, and support nature-based climate adaptation.
 
 I will be on the job market in 2025-2026.
 
