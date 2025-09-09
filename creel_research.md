@@ -3,7 +3,10 @@ layout: default
 title: Andie Creel's Research Statement
 ---
 <style>
-  p { font-family: Georgia, serif; }
+  p { 
+    font-family: Georgia, serif; 
+    text-align: justify; /* Ensures text is flush on both left and right sides */
+  }
 </style>
 
 # Research Statement

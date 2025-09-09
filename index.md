@@ -8,7 +8,10 @@ title: Andie Creel
 </div>
 
 <style>
-  p { font-family: Georgia, serif; }
+  p { 
+    font-family: Georgia, serif; 
+    text-align: justify; /* Ensures text is flush on both left and right sides */
+  }
 </style>
 
 # Andie Creel 
