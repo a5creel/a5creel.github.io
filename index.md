@@ -7,6 +7,10 @@ title: Andie Creel
     <img src="photos/DSC_0102.jpg" alt="Andie Creel" style="max-height: 400px;">
 </div>
 
+<style>
+  p { font-family: Georgia, serif; }
+</style>
+
 # Andie Creel 
 I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research develops large-scale empirical measures of the economic value of natural capital and ecosystem services, measuring values often missing from traditional statistics because nature is not bought or sold in markets. By combining revealed preference methods with novel datasets such as credit card transactions, mobility data, and high-resolution environmental measures, I quantify how environmental benefits and costs vary across time, space, and demographic groups.
 
