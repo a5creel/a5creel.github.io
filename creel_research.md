@@ -2,7 +2,11 @@
 layout: default
 title: Andie Creel's Research Statement
 ---
-# Andie Creel's Research Statement
+<style>
+  p { font-family: Georgia, serif; }
+</style>
+
+# Research Statement
 
 My research shows how natural capital underpins everyday economic activity, even when it does not appear in markets or national accounts. **I study how people trade off money and time to access nature, and how businesses and governments, in turn, capture value from those choices.** By combining large-scale behavioral data with environmental measures, I make nature’s contributions visible in statistics, businesses’ bottom lines, and fiscal systems. This agenda highlights not only the welfare value of ecosystem services, but also the financial mechanisms that rely on them.
 
