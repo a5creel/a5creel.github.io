@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Teaching Statement
+title: Andie Creel's Teaching Statement
 ---
 
-# Teaching Statement
+# Andie Creel's Teaching Statement
 
 Every time I teach, **my goal is to equip future policymakers, industry leaders, and academics with the skills to apply economic insights to real-world challenges.** I see my students as future colleagues and collaborators, and I strive to ensure that all of them, whether they plan to conduct research or use it to support their work, can confidently interpret and apply economic analysis. To achieve this, I focus on developing students’ **technical proficiency and analytical thinking** while making economics, computer science, and applied math **more accessible** to all students in my classroom. 
 
