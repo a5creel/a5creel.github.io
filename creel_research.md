@@ -9,6 +9,26 @@ title: Andie Creel's Research Statement
   }
 </style>
 
+# Working Papers
+
+## *Job Market Paper*: Revenue Under Heat: The Value of Urban Green Space
+
+\[[Link to Working Paper.](working_papers/creel_jmp.pdf)\] Extreme heat is becoming more frequent and intense due to climate change, particularly in cities where the urban heat island effect amplifies high temperatures. This paper estimates the causal effect of temperature on daily revenue at over 15,000 consumer-facing storefronts in the 49 largest U.S. metro areas between 2019 and 2023, with a focus on how green space can mitigate revenue loss caused by extreme heat. I find that revenue begins to decline on days with a maximum temperature above 35°C (95°F) and drops by 9 percent on days above 37.5°C (99.5°F) relative to the average revenue on a 20°C (68°F) day. Substituting spending across days mitigates some damage from an extreme heat event, but a 1.3 percent revenue drop is persistent for two weeks following an extremely hot day. Because temporal substitution does not completely mitigate the negative effect of extreme heat, I examine the role of urban green space as a climate adaptation strategy. Using variation in greenery around storefronts belonging to the same brand within a city, I find that a one percent increase in surrounding green space raises revenue by 1.78 percent on extremely hot days: 0.96 percent from general amenity value and 0.82 percent from its cooling effect. These results suggest that green infrastructure can improve firm resilience to heat, providing evidence of a private incentive to finance public urban green space that could simultaneously provide a positive externality.
+
+## The National Value of Local Outdoor Recreation over the Past 20 Years
+
+\[[Link to Working Paper.](working_papers/creel_local_recreation.pdf)\] I measure the benefits of local outdoor recreation in the United States over 2003-2023 and show how conclusions depend on how travel time is priced. Using the American Time Use Survey to estimate a travel-cost model, I estimate (i) welfare-based willingness to pay, which values travel time at one-third of own wage, and (ii) accounting values that price the realized service (travel) at a replacement wage consistent with household production accounts. Average value per trip is stable at roughly $15-$18 (2023 USD) regardless of pricing technique, with temporary increases around the Great Recession and the COVID-19 pandemic. Scaling by trips and population, national annual value rises by about $100 billion over two decades. In 2022, it totals $216-$241 billion, far exceeding typical municipal park investments. In contrast to average and aggregated value, distributional results depend on the modeling choice of how to price time. While aggregate time trends are similar under both approaches, using a replacement wage compresses the richest-to-poorest quintile ratio in per-trip value from about 10:1 to 1.5:1. The method produces a scalable, repeatable measure of local recreation benefits and connects non-market valuation with accounting-consistent pricing. 
+
+
+# Publications 
+Creel A. M. (2025). Muller et al., eds., Measuring and Accounting for Environmental Public Goods, Chap. 7 Comment. *National Bureau of Economic Research Book, University of Chicago Press.*
+
+Creel, S., Creel, N. M., Creel, A. M., & Creel, B. M. (2016). Hunting on a hot day: effects of temperature on interactions between African wild dogs and their prey. *Ecology*, 97(11), 2910-2916.
+
+
+
+
+
 # Research Statement
 
 My research shows how natural capital underpins everyday economic activity, even when it does not appear in markets or national accounts. **I study how people trade off money and time to access nature, and how businesses and governments, in turn, capture value from those choices.** By combining large-scale behavioral data with environmental measures, I make nature’s contributions visible in statistics, businesses’ bottom lines, and fiscal systems. This agenda highlights not only the welfare value of ecosystem services, but also the financial mechanisms that rely on them.
