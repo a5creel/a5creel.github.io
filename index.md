@@ -15,9 +15,7 @@ title: Andie Creel
 </style>
 
 # Andie Creel 
-I am a Ph.D. candidate in Environmental Economics at the Yale School of the Environment. My research interest is in the non-market valuation of ecosystem services, nature-based adaption to climate change, and biodiversity. In other words, I study how people trade off money and time to access nature, and how businesses and governments, in turn, capture value from those choices. By combining large-scale behavioral data with environmental measures, I make nature’s contributions visible in statistics, businesses’ bottom lines, and fiscal systems. This agenda highlights not only the welfare value of ecosystem services, but also the financial mechanisms that rely on them.
-
-I focus on publicly provisioned resources such as urban green space and public parks. In my work, I build and link novel datasets, such as credit card transactions, mobility datasets, and remote sensing, to show how people’s preferences for nature shape both individual welfare and business revenue. This approach also allows me to ask new questions about distribution: how environmental benefits vary across demographics, geographic space, and time.
+My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and biodiversity, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
 
 I will be on the job market in 2025-2026.
 
