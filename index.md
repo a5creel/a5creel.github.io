@@ -15,7 +15,7 @@ title: Andie Creel
 </style>
 
 # Andie Creel 
-My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and biodiversity, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
+I am an environmental economist completing my PhD at the Yale School of the Environment. My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and biodiversity, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
 
 I will be on the job market in 2025-2026.
 
