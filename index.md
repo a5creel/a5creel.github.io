@@ -40,6 +40,9 @@ I will be on the job market in 2025-2026.
 
 ![Figure 1](figures/pref_WTP_national.png)
 
+## Measuring the Value of Outdoor Recreation for National Environmental-Economic Statistics
 
+*With Jorge Forero Fajardo and Eli P. Fenichel*
 
+\[[Link to Working Paper.](working_papers/simple_pdfs/creel_sat_accnt.pdf)\] Accurately measuring welfare changes from outdoor recreation requires accounting for both market expenditures and household-produced services, yet current U.S. satellite accounts capture only market transactions. Ignoring the value of recreation under the household production accounting boundary can create a measurement gap for benefit-cost analyses of environmental protection or infrastructure investments, where recreation benefits would be systematically understated. We find that outdoor recreation is primarily a household-produced service that combines purchased inputs (gasoline, equipment) with travel time: the major welfare-relevant cost. Using detailed U.S. coastal recreation data, we partition travel costs across the System of National Accounts boundary (market expenses) and the household production boundary (travel time) to quantify this measurement gap. We find that market expenditures represent only one-third of total recreation costs, while household production of recreation services through travel time comprises two-thirds. This means current assessments using only market expenditures underestimate outdoor recreation's welfare-relevant value by approximately threefold. Including travel time would increase the Household Production Satellite Account by 4-5 percent nationally, corresponding to $12.4 billion in the U.S. Gulf Region or 0.7 percent of regional GDP. For benefit-cost analysis, jointly considering both the SNA and household production boundaries is essential for accurately measuring welfare-relevant expenditure changes over time and properly valuing natural assets that enable outdoor recreation.
 
