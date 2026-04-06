@@ -97,7 +97,7 @@ Do mock interviews with:
 - Have a website
 - Make sure it's **indexed by Google** so your name comes up in search results
 - Host your **JMP** on the site
-- Include a **clickable link** in your JMP draft that points to the most recent version
+- Include a **clickable link** in your JMP PDF that points to the most recent version hosted online
 - Include your CV, research statement, teaching statement, and short research bio
 
 ---
@@ -130,6 +130,17 @@ Do mock interviews with:
 1. What would you tell a policy maker about this decision? *(common at think tanks)*
 2. How have you taught yourself things?
 3. How would you teach a diverse student population?
+
+--- 
+## Fly-outs
+- Make sure you have a suit and some nice clothes for dinner the night before. You may go out to two dinners.
+- They pay for your travel and hotel.
+- They should give you a schedule ahead of time: Do prep on the research and interests of the search committee. Try to do it for everyone else you'll meet with too.
+- Make sure you've practiced your seminar many times so you don't have it in the back of your mind while also doing meetings.
+- Fly-out interview days are extremely long. Ask for bathroom breaks, even if you just need a mental break. Bring a snack and water. Ask for coffee.
+- Remember: So long as you clear the bar of competence, they will ultimately be looking for a colleague. Be personable, show interest in other people's research. Whenever I was tired, I'd ask about other people's interests so I could have some time listening instead of talking. 
+
+
 
 ## Disclosure 
 
