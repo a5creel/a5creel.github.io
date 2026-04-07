@@ -14,7 +14,7 @@
 | January | Hopefully fly-outs |
 | Early to mid-February | Initial offers |
 
-**Tip:** I felt like I just needed to get through November, which was a huge push of finishing my JMP and applying to more than 100 jobs. However, that was just the beginning. It's important to pace things, starting the summer leading up to the market, so that you don't burn out at the most important, time which is interviews and then flyouts. 
+**Tip:** I felt like I just needed to get through November, which was a huge push of finishing my JMP and applying to more than 100 jobs. However, that was just the beginning. It's important to pace things, starting the summer leading up to the market, so that you don't burn out at the most important time, which is interviews and then fly-outs. 
 
 ---
 
@@ -69,7 +69,8 @@ Start in the **spring before the market** so you can iterate:
 
 ### Mock Interviews
 Do mock interviews with:
-- Faculty (Matt, Ken, Eli)
+- Faculty 
+- Alumni
 - Other people on the job market
 - Friends
 
@@ -88,7 +89,7 @@ Do mock interviews with:
 ## Mindset
 
 > "Every job is a job you want until you have the offer."  
-> — Matt Kotchen
+> — Faculty who helped prep me for interviews 
 
 ---
 
@@ -114,6 +115,7 @@ Do mock interviews with:
 ## Helpful Resources
 
 - Cawley, John. *A Guide and Advice for Economists on the U.S. Junior Academic Job Market.* 2018.
+- At YSE, Julie Vance can help read statements, cover letters, prepare your seminar, and prep for interviews 
 
 ---
 
