@@ -22,17 +22,65 @@
             width: 100%;
             padding: 10px 0;
         }
+        header nav {
+            display: flex;
+            flex-wrap: wrap; /* links wrap onto a second line on narrow screens */
+            gap: 4px 24px;
+        }
         header nav a {
-            margin: 0 15px;
             text-decoration: none;
             color: #333;
         }
         header nav a:hover {
             text-decoration: underline;
         }
-        img {
+        img, video {
+            max-width: 100%;  /* never wider than the screen */
             max-height: 450px; /* Set your desired maximum height here */
             width: auto;
+            height: auto;
+        }
+        /* Figures: image centered, caption always underneath */
+        figure {
+            margin: 1.5em 0;
+            text-align: center;
+        }
+        figure img {
+            display: block;
+            margin: 0 auto;
+        }
+        figcaption {
+            margin-top: 0.5em;
+            font-family: Georgia, serif;
+            font-style: italic;
+            font-size: 0.95em;
+        }
+        /* Headshot sits to the right of the bio on wide screens */
+        .headshot {
+            float: right;
+            max-width: 45%;
+            max-height: 400px;
+            margin: 0 0 10px 20px;
+        }
+        /* Phones and narrow windows */
+        @media (max-width: 600px) {
+            body {
+                padding: 0 14px;
+            }
+            header {
+                position: static; /* don't pin the header so it doesn't cover the page */
+            }
+            header h1 {
+                font-size: 1.5em;
+                margin: 0.3em 0;
+            }
+            .headshot {
+                float: none;
+                display: block;
+                max-width: 70%;
+                max-height: none;
+                margin: 0 auto 15px;
+            }
         }
         /* Style all hyperlinks as dark blue and underlined */
         a {
@@ -52,7 +100,9 @@
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/creel_research.html">Research</a>
             <a href="{{ site.baseurl }}/creel_teaching.html">Teaching</a>
+            {% comment %}Job Market tab hidden for now; delete the comment tags to restore
             <a href="{{ site.baseurl }}/job_market_advice.html">Job Market</a>
+            {% endcomment %}
             <a href="https://github.com/a5creel" target="_blank">GitHub</a>
         </nav>
     </header>

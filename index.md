@@ -3,8 +3,8 @@ layout: default
 title: Andie Creel
 ---
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
-    <img src="photos/headshot.jpeg" alt="Andie Creel" style="max-height: 400px;">
+<div>
+    <img src="photos/headshot.jpeg" alt="Andie Creel" class="headshot">
 </div>
 
 <style>
@@ -15,7 +15,7 @@ title: Andie Creel
 </style>
 
 # Andie Creel 
-I am an environmental economist and Postdoctoral Research Associate at the Yale School of the Environment, where I received my PhD in 2026. My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and conservation on working agricultural lands, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
+I am a natural resource economist and Postdoctoral Research Associate at the Yale School of the Environment, where I received my PhD in 2026. My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and conservation on working agricultural lands, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
 
 I am on the 2026-2027 academic job market.
 
@@ -25,14 +25,16 @@ I am on the 2026-2027 academic job market.
 
 <div style="clear: both;"></div>
 
-# Research
+# Working Papers
 
 ## *Job Market Paper*: The Value of Nature-Based Adaptation -- Evidence that Urban Tree Cover Protects Revenue from Heat
 
 \[[Link to Working Paper.](working_papers/creel_jmp.pdf)\] Climate change is increasing the frequency and intensity of extreme heat events, particularly in cities. This paper estimates the causal effect of temperature on daily revenue using nearly 15,000 consumer-facing storefronts in the 49 largest U.S. cities between 2019 and 2023. Revenue peaks between 35 and 37.5 °C (95–99.5 °F) and then falls steeply, averaging 9 percent lower on days at or above 40 °C (104 °F) than on 20 °C (68 °F) days. Consumption smoothing across days mitigates some damage from an extreme heat event, but cumulative revenue remains about 1.4 percent lower nearly two weeks after a hot day. Therefore, I estimate how effective urban green space is as a climate adaptation strategy that can prevent revenue losses caused by extreme heat. I find that a one percent increase in tree cover surrounding a storefront increases revenue by about 0.9 percent on hot days (≥ 37.5 °C). Raising surrounding tree cover from zero to 10 percent eliminates revenue losses at 37.5 °C and nearly halves them at 40 °C. Storefronts located in the Southwest and South have the most to gain from urban tree cover. On average, businesses in this region can cover the cost of moving to a 10 percent tree cover scenario in four years with the avoided revenue losses. This length of time shortens under projected climate scenarios. These results suggest that green infrastructure can improve firm resilience to heat, providing evidence of a private incentive to finance urban green space that could simultaneously provide a positive externality.
 
-![Revenue under 0 and 10 percent surrounding tree canopy by daily maximum temperature](figures/green_space_2.5.jpg)
-*Revenue under 0% vs. 10% surrounding tree canopy, by daily maximum temperature (relative to a 20 °C day).*
+<figure>
+  <img src="figures/green_space_2.5.jpg" alt="Revenue under 0 and 10 percent surrounding tree canopy by daily maximum temperature">
+  <figcaption>Revenue under 0% vs. 10% surrounding tree canopy, by daily maximum temperature (relative to a 20 °C day).</figcaption>
+</figure>
 
 ## 20 Years of Local Outdoor Recreation and Its Value to Americans
 
@@ -41,16 +43,18 @@ I am on the 2026-2027 academic job market.
 \[[Link to Working Paper.](working_papers/creel_local_recreation.pdf)\] The value of outdoor recreation regularly justifies public spending on "the great outdoors." Yet 95 percent of recreation trips require an hour or less of round-trip travel. We develop an econometric approach that uses two decades of the American Time Use Survey (2003–2023) to produce repeated national estimates of the value of local recreation. A lower-bound estimate of willingness to pay per trip remained stable, between $5 and $6 (2023 USD), while national annual willingness to pay rose 63 percent, from $57.0 to $93.2 billion, driven by rising participation and population growth. Short trips to play with pets or children, walk, or socialize account for about 80 percent of outdoor recreation trips, yet these high-frequency activities are largely absent from the valuation literature. A relative price change framework, combined with weak complementarity, implies that publicly accessible outdoor spaces have not become scarcer, consistent with sustainable management nationally.
 
 
-![National annual value of local outdoor recreation, 2003-2023](figures/rec_wtp_national.png)
-*Annual national value of access to local outdoor recreation, 2003–2023 (billions of 2023 USD; three-year periods plotted at midpoint year, 95% confidence intervals).*
-
-# Work in Progress
+<figure>
+  <img src="figures/rec_wtp_national.png" alt="National annual value of local outdoor recreation, 2003-2023">
+  <figcaption>Annual national value of access to local outdoor recreation, 2003–2023 (billions of 2023 USD; three-year periods plotted at midpoint year, 95% confidence intervals).</figcaption>
+</figure>
 
 ## Measuring the Value of Outdoor Recreation for National Environmental-Economic Statistics
 
 *With Jorge Forero Fajardo and Eli P. Fenichel*
 
 \[[Link to Working Paper.](working_papers/simple_pdfs/creel_sat_accnt.pdf)\] The 2025 System of National Accounts establishes that comprehensive expenditure measurement across accounting boundaries can support welfare assessment. For ecosystem services like outdoor recreation, this requires comprehensive partitioning of expenditure between the System of National Accounts (SNA) boundary for market transactions and the household production boundary for travel time. Current U.S. satellite accounts fail to do this. The Outdoor Recreation Satellite Account captures only market expenditures for distant trips, while the Household Production Satellite Account excludes recreation entirely. We use detailed U.S. coastal recreation data to partition travel costs across these boundaries and quantify the resulting measurement gaps. Our central finding is that outdoor recreation is primarily a household-produced service. Travel time, not market purchases, represents the major expenditure. Household production values are approximately twice market expenditures, meaning assessments based only on market spending underestimate recreation's contribution to well-being by roughly threefold. Including recreation travel time would increase the Household Production Satellite Account by 4–5 percent nationally ($12.4 billion in the Gulf Region, or 0.7 percent of regional GDP). These measurement gaps have policy consequences: benefit-cost analyses that rely solely on market expenditures systematically understate recreation benefits, potentially leading to underinvestment in environmental protection and recreational infrastructure.
+
+# Work in Progress
 
 ## Two Wedges and No Wire: Externalities in Virtual Fence Adoption
 
@@ -69,3 +73,7 @@ We estimate the economic value of soil organic matter as a natural capital input
 *Supported by the Property and Environment Research Center (PERC)*
 
 I use spatial boundaries from virtual fence projects across the western United States and satellite vegetation data in riparian buffers to measure whether virtual fence grazing management improves riparian habitat.
+
+## Who Captures the Conservation Rent? Market Power and Subscription Pricing in Virtual Fence Technology
+
+Virtual fence is a proprietary technology supplied by a concentrated set of vendors, many of which sell access by subscription rather than outright ownership. This paper investigates how vendor market power and contract form determine who captures the gains from conservation contracts that depend on the technology. Subscription relaxes ranchers' credit constraints and can expand adoption, but it leaves the vendor holding the verification data, exposing ranchers who sign conservation contracts to hold-up. This paper asks how much of a conservation subsidy for virtual fence adoption becomes conservation rather than vendor revenue under various contract designs.
