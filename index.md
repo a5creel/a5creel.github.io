@@ -4,7 +4,7 @@ title: Andie Creel
 ---
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
-    <img src="photos/headshot.JPG" alt="Andie Creel" style="max-height: 400px;">
+    <img src="photos/headshot.jpeg" alt="Andie Creel" style="max-height: 400px;">
 </div>
 
 <style>
