@@ -56,6 +56,12 @@ I am on the 2026-2027 academic job market.
 
 # Work in Progress
 
+## Valuing Urban Ecosystem Services for Decision-Making
+
+*With Karen Seto and Taylor H. Ricketts*
+
+Most urban studies measure natural assets, such as tree canopy, and the ecosystem functions they provide, such as cooling, but rarely measure the benefits of those functions to people in dollars. Without a dollar value, a city cannot run a benefit-cost analysis of planting street trees, and it is hard to know if businesses have a private incentive to pay for new natural assets. We develop a conceptual framework that starts and ends with the decision-maker, such as a city, an insurer, or a storefront, and asks what that decision-maker is trying to achieve and what it would cost to do nothing.
+
 ## Two Wedges and No Wire: Externalities in Virtual Fence Adoption
 
 *With Katherine Lee and Sophie Gilbert*
