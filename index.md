@@ -56,7 +56,7 @@ I am on the 2026-2027 academic job market.
 
 # Work in Progress
 
-## Valuing Urban Ecosystem Services for Decision-Making
+## Valuing Urban Ecosystem Services for Decision-Makers
 
 *With Karen Seto and Taylor H. Ricketts*
 
