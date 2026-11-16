@@ -17,7 +17,7 @@ title: Andie Creel
 # Andie Creel 
 I am a natural resource economist and Postdoctoral Research Associate at the Yale School of the Environment, where I received my PhD in 2026. My research estimates the non-market value of nature-based adaptation solutions to climate change, ecosystem services, and conservation on working agricultural lands, with a focus on integrating these values into the systems that measure welfare, business performance, and fiscal health. I combine behavioral data, such as credit card transactions, mobility records, and time-use surveys, with high-resolution environmental data to reveal how natural resources influence well-being and economic outcomes.
 
-I am on the 2026-2027 academic job market.
+I am on the 2026-2027 job market.
 
 - [View and Download CV](creel_cv.pdf)
 - [andie.creel@yale.edu](mailto:andie.creel@yale.edu)
